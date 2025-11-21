@@ -1,4 +1,3 @@
-
 {{ config(materialized='ephemeral') }}
 
 WITH tb1 as(
